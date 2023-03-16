@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "d0NQ6XGyjkTWDSNTNwt1rO0i0JHyMT4sr2fj0wwJmYLUbdd5rCSasjzwapgCXwEhbvx7MPvm+Kt2JCu4GqGDIA==",
+  "success": true,
+  "projectFilePath": "D:\\С#\\Новая папка\\labs\\Lab6\\Lab6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Katim\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512",
+    "C:\\Users\\Katim\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Katim\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Katim\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
