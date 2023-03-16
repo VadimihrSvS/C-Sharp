@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Katim\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Katim\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+C:\Users\Lenovo\source\repos\Lab8\bin\Debug\net5.0\Lab8.exe
+C:\Users\Lenovo\source\repos\Lab8\bin\Debug\net5.0\Lab8.deps.json
+C:\Users\Lenovo\source\repos\Lab8\bin\Debug\net5.0\Lab8.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Lab8\bin\Debug\net5.0\Lab8.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\Lab8\bin\Debug\net5.0\Lab8.dll
+C:\Users\Lenovo\source\repos\Lab8\bin\Debug\net5.0\ref\Lab8.dll
+C:\Users\Lenovo\source\repos\Lab8\bin\Debug\net5.0\Lab8.pdb
+C:\Users\Lenovo\source\repos\Lab8\obj\Debug\net5.0\Lab8.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Lab8\obj\Debug\net5.0\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Lab8\obj\Debug\net5.0\Lab8.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Lab8\obj\Debug\net5.0\Lab8.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Lab8\obj\Debug\net5.0\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Lab8\obj\Debug\net5.0\Lab8.dll
+C:\Users\Lenovo\source\repos\Lab8\obj\Debug\net5.0\ref\Lab8.dll
+C:\Users\Lenovo\source\repos\Lab8\obj\Debug\net5.0\Lab8.pdb
+C:\Users\Lenovo\source\repos\Lab8\obj\Debug\net5.0\Lab8.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\На отправку\Lab8\bin\Debug\net5.0\Lab8.exe
+C:\Users\Lenovo\Desktop\На отправку\Lab8\bin\Debug\net5.0\Lab8.deps.json
+C:\Users\Lenovo\Desktop\На отправку\Lab8\bin\Debug\net5.0\Lab8.runtimeconfig.json
+C:\Users\Lenovo\Desktop\На отправку\Lab8\bin\Debug\net5.0\Lab8.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\На отправку\Lab8\bin\Debug\net5.0\Lab8.dll
+C:\Users\Lenovo\Desktop\На отправку\Lab8\bin\Debug\net5.0\ref\Lab8.dll
+C:\Users\Lenovo\Desktop\На отправку\Lab8\bin\Debug\net5.0\Lab8.pdb
+C:\Users\Lenovo\Desktop\На отправку\Lab8\obj\Debug\net5.0\Lab8.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\На отправку\Lab8\obj\Debug\net5.0\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\На отправку\Lab8\obj\Debug\net5.0\Lab8.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\На отправку\Lab8\obj\Debug\net5.0\Lab8.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\На отправку\Lab8\obj\Debug\net5.0\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\На отправку\Lab8\obj\Debug\net5.0\Lab8.dll
+C:\Users\Lenovo\Desktop\На отправку\Lab8\obj\Debug\net5.0\ref\Lab8.dll
+C:\Users\Lenovo\Desktop\На отправку\Lab8\obj\Debug\net5.0\Lab8.pdb
+C:\Users\Lenovo\Desktop\На отправку\Lab8\obj\Debug\net5.0\Lab8.genruntimeconfig.cache
+D:\С#\Новая папка\labs\Lab8\bin\Debug\net5.0\Lab8.exe
+D:\С#\Новая папка\labs\Lab8\bin\Debug\net5.0\Lab8.deps.json
+D:\С#\Новая папка\labs\Lab8\bin\Debug\net5.0\Lab8.runtimeconfig.json
+D:\С#\Новая папка\labs\Lab8\bin\Debug\net5.0\Lab8.runtimeconfig.dev.json
+D:\С#\Новая папка\labs\Lab8\bin\Debug\net5.0\Lab8.dll
+D:\С#\Новая папка\labs\Lab8\bin\Debug\net5.0\Lab8.pdb
+D:\С#\Новая папка\labs\Lab8\obj\Debug\net5.0\Lab8.csproj.AssemblyReference.cache
+D:\С#\Новая папка\labs\Lab8\obj\Debug\net5.0\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+D:\С#\Новая папка\labs\Lab8\obj\Debug\net5.0\Lab8.AssemblyInfoInputs.cache
+D:\С#\Новая папка\labs\Lab8\obj\Debug\net5.0\Lab8.AssemblyInfo.cs
+D:\С#\Новая папка\labs\Lab8\obj\Debug\net5.0\Lab8.csproj.CoreCompileInputs.cache
+D:\С#\Новая папка\labs\Lab8\obj\Debug\net5.0\Lab8.dll
+D:\С#\Новая папка\labs\Lab8\obj\Debug\net5.0\refint\Lab8.dll
+D:\С#\Новая папка\labs\Lab8\obj\Debug\net5.0\Lab8.pdb
+D:\С#\Новая папка\labs\Lab8\obj\Debug\net5.0\Lab8.genruntimeconfig.cache
+D:\С#\Новая папка\labs\Lab8\obj\Debug\net5.0\ref\Lab8.dll
